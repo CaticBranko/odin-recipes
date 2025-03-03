@@ -1,0 +1,15 @@
+body {
+    background: rgb(209, 207, 207);
+}
+
+.recipes {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+.heading1 {
+    font-family: 'Times New Roman', Times, serif;
+    box-sizing: border-box;
+    margin: 50px;
+}
